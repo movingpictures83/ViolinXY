@@ -1,0 +1,2 @@
+Prefix plugins/ViolinXY/example/
+Plugin ViolinXY inputfile parameters.txt outputfile Violin.png

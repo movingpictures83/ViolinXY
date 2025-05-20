@@ -1,0 +1,3 @@
+scorefile	scores.cat.csv
+x	CAPRI_quality
+y	PIsToN_score
